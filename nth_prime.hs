@@ -3,7 +3,7 @@
 -- we can see that the 6th prime is 13.
 -- If your language provides methods in the standard library to deal with prime numbers, 
 -- pretend they don't exist and implement them yourself.
-
+import Utilities
 
 nth :: Int -> Maybe Integer
 nth n 
